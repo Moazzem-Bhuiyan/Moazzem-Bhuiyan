@@ -2,7 +2,7 @@
 #### I am Mern Stack Developer
 👋 Hi, I'm Moazzem, a passionate MERN Stack Developer with a strong foundation in building full-stack web applications. I specialize in creating robust and scalable applications using MongoDB, Express.js, React.js, and Node.js. With a focus on writing clean, maintainable code, I continuously strive to enhance user experiences through efficient and responsive design.
 
-Skills:  / REACT / JS / HTML / CSS/ javascript / Next.js/ Mongodb/ Node js/ Expres js 
+Skills:  / REACT / JS / HTML / CSS/ Tailwind CSS/ javascript / Next.js/ Mongodb/ Node js/ Expres js / Git /Github/ vercel --More
 
 - 🌱 I’m currently learning Mongoose 
 - 👯 I’m looking to collaborate on Github 
