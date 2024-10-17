@@ -59,9 +59,41 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Moazzem-Bhuiyan/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Moazzem-Bhuiyan)  
+# Project Title
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan)  
+## Description
+A brief description of what this project does and its purpose.
+
+## GitHub Metrics and Streak Stats
+
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        ![GitHub metrics](https://metrics.lecoq.io/Moazzem-Bhuiyan)  
+    </div>
+    <div>
+        [![GitHub streak stats](https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan&bg=000000&text=FFFFFF)](https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan)
+    </div>
+</div>
+
+## Installation
+Instructions to set up the project locally.
+
+## Usage
+How to use the project with examples.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Contributing
+Guidelines for contributing to the project.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+Your Name - [your.email@example.com](mailto:your.email@example.com)
 
 
 
