@@ -10,12 +10,12 @@
 
 
 
-### Hi there 👋, I am  Moazzem Hossen
+### Assalamualaikum I am  Moazzem Hossen
 #### I am Mern Stack Developer
-👋 Hi, I'm Moazzem, a passionate MERN Stack Developer with a strong foundation in building full-stack web applications. I specialize in creating robust and scalable applications using MongoDB, Express.js, React.js, and Node.js. With a focus on writing clean, maintainable code, I continuously strive to enhance user experiences through efficient and responsive design.
+ Hi, I'm Moazzem, a passionate MERN Stack Developer with a strong foundation in building full-stack web applications. I specialize in creating robust and scalable applications using MongoDB, Express.js, React.js, and Node.js. With a focus on writing clean, maintainable code, I continuously strive to enhance user experiences through efficient and responsive design.
 
 
-# 💻 Tech Stack:
+## Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -47,9 +47,19 @@
 - 👯 I’m looking to collaborate on Github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moazzem-Bhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/moazzem.bhuiyan.37)  
+## Connected With Me
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/moazzem-hossen-bhuiyan-325432331/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="tiyonbhuiyan.201@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/moazzem.bhuiyan.37/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
 
 
