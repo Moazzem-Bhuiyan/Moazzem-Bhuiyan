@@ -50,29 +50,56 @@
 ## Connected With Me
 
 <div align="center">
+  <a href="https://www.facebook.com/moazzem.bhuiyan.37/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/moazzem-hossen-bhuiyan-325432331/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="tiyonbhuiyan.201@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/moazzem.bhuiyan.37/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
+ 
+</div>
+
+## Most Usage Language
+
+
+<div align="center" style="padding-top:100">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzem-Bhuiyan" alt="Top Languages" />
+    </a>
 </div>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzem-Bhuiyan)](https://github.com/anuraghazra/github-readme-stats)
+##  Current stats
+<table align="center" >
+  <tr>
+    <td>
+      <a href="https://github.com/Moazzem-Bhuiyan/github-readme-streak-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Moazzem-Bhuiyan&theme=react&border=61dafb&hide_border=true" alt="Moazzem-Bhuiyan" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Moazzem-Bhuiyan/github-readme-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Moazzem-Bhuiyan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moazzem-Bhuiyan&show_icons=true&count_private=true)  
+## GitHub contributions
+
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Moazzem-Bhuiyan/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Moazzem-Bhuiyan)  
 
-[![GitHub streak stats](https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan)  ](https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan&bg=000000&text=FFFFFF
-)
-
+<div align="center">
+    <a href="https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan&bg=000000&text=FFFFFF">
+        <img src="https://streak-stats.demolab.com/?user=Moazzem-Bhuiyan" alt="GitHub streak stats" />
+    </a>
+</div>
 
 
