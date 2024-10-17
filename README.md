@@ -47,7 +47,7 @@
 - 👯 I’m looking to collaborate on Github 
 
 
-## Connected With Me
+## Connecte With Me
 
 <div align="center">
   <a href="https://www.facebook.com/moazzem.bhuiyan.37/" target="_blank">
